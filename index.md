@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: My first static page on github
 ---
